@@ -1,0 +1,12 @@
+    <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+	
+	<item>
+                <title>POKER CHANNEL</title>
+                <link>mms://some/place/pokerchannel</link>
+                <thumbnail>http://channel.png</thumbnail>
+                <genre>Poker</genre>
+                <info>The Poker Channel – Europe’s largest dedicated gaming TV network is available online to a global audience, and to more than 30 million cable and satellite homes in Europe and Latin America.</info>
+                <date>07.12.2011</date>  <!-- format - dd.mm.yyyy -->
+                <epg></epg>  <!-- See daschacka's post - http://forum.xbmc.org/showpost.php?p=936228&postcount=1076 -->
+                <fanart>http://fanart.jpg</fanart>
+            </item>
